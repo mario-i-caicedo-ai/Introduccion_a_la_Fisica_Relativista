@@ -19,9 +19,9 @@ Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que s
 
 ### General
 
+* Walter Isaacson
 * Landau Rummer ...
-* AbrahamPais, Subtle is the Lord
-* ]Walter Isaacson
+* Abraham Pais, Subtle is the Lord
 
 ### Técnica
 
@@ -29,13 +29,16 @@ Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que s
 
   * Taylor Wheeler
   * Woodhouse
+  * D´Invderno
+  * Shcutz
 
 * Avanzada
 
-  * xxx
-  * xxxx
-  * xxxx
-  * xxxx
+  * J. D. Jackson
+  * L.Landau Lifschitz ...
+  * Weinberg
+  * Misner Thorne Wheeler
+
 
   
     
