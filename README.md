@@ -49,7 +49,7 @@ En Construcción
 
 ## Clases
 
-En Construcción
+[Apuntes del Curso (Versión Preliminar en Inglés)]()
 
 ## Tareas
 
