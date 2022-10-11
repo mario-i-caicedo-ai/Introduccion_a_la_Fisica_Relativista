@@ -8,12 +8,13 @@
 
 ## Introducción
 
-El año 1905 es conocido como el [*annus mīrābilis*](https://en.wikipedia.org/wiki/Annus_mirabilis_papers) de Albert Einstein.  Durante se año, Einstein publicó cuatro artículos de investigación que, sin duda alguna, constituyen parte de los cimientos de la física moderna. 
+El año 1905 es conocido como el [*annus mīrābilis*](https://en.wikipedia.org/wiki/Annus_mirabilis_papers) de Albert Einstein.  Durante se año, Einstein publicó cuatro artículos de investigación que, sin duda alguna, constituyen parte de los cimientos de la física moderna. Los dos más tardíos,
 
-* Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-* Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
-* Zur Elektrodynamik bewegter Körper
-* Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?
+* Zur Elektrodynamik bewegter Körper, publicado el 26 de septiembre y  
+* Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? de fecha 21 de noviembre.
+
+Revolucionan totalmente losconceptosde espacio, tiempo, masa y energía que semanejaban hasta aquel año.
+
 
 
 ## Cuadernos jupyter disponibles.
