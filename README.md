@@ -15,8 +15,30 @@ El año 1905 es conocido como el [*annus mīrābilis*](https://en.wikipedia.org/
 
 Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que semanejaban hasta aquel año. Y sentaron las bases de la Relatividad Especial que es junto con la mecánica cuántica es un paradigma fundamental de la física.
 
+## Bibliografía
 
+### General
 
+* Landau Rummer ...
+* AbrahamPais, Subtle is the Lord
+* ]Walter Isaacson
+
+### Técnica
+
+* Introductoria
+
+  * Taylor Wheeler
+  * Woodhouse
+
+* Avanzada
+
+  * xxx
+  * xxxx
+  * xxxx
+  * xxxx
+
+  
+    
 ## Cuadernos jupyter disponibles.
 
 [Álgebra de Lorentz I](notebooks/Álgebra_de_Lorentz_so(3).ipynb) estudia la representación fundamental del álgebra de Lorentz sin justificación alguna para la forma de los generadores.
