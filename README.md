@@ -54,3 +54,20 @@ En Construcción
 ## Tareas
 
 Semana 1: 
+
+
+## Otros Recursos.
+
+[Special Relativity: the Principles](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_principles/index.html)
+
+[Clocks and Rods](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/index.html)
+
+[Adding Velocities](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_adding/index.html)
+
+[The Relativity of Simultaneity](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_rel_sim/index.html)
+
+[Is Special Relativity Paradoxical?](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Reciprocity/index.html)
+
+[$E=mc^2$](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Reciprocity/index.html)
+
+
