@@ -19,7 +19,7 @@ Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que s
 
 ### General
 
-* Walter Isaacson
+* Walter Isaacson: [Einstein: His Life and Universe](https://books.google.com.co/books/about/Einstein.html?id=d2WZDgAAQBAJ&redir_esc=y)
 * Landau Rummer ...
 * Abraham Pais, Subtle is the Lord
 
