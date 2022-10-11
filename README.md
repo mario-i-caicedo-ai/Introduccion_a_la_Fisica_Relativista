@@ -8,7 +8,7 @@
 
 ## Introducción
 
-El año 1905 es conocido como el *annus mīrābilis* de Albert Einstein.  Durante se año, Einstein publicó cuatro artículos de investigación que, sin duda alguna, constituyen parte de los cimientos de la física moderna. [xx](https://en.wikipedia.org/wiki/Annus_mirabilis_papers)
+El año 1905 es conocido como el [*annus mīrābilis*](https://en.wikipedia.org/wiki/Annus_mirabilis_papers) de Albert Einstein.  Durante se año, Einstein publicó cuatro artículos de investigación que, sin duda alguna, constituyen parte de los cimientos de la física moderna. 
 
 * Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
 * Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
