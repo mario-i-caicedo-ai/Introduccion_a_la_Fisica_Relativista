@@ -8,7 +8,7 @@
 
 ## Introducción
 
-La **Relatividad Especial** data de 1905, el *annus mīrābilis* de Einstein, año en que el gran científico publicó cinco artículos de importancia fundamental
+El año 1905 es conocido como el *annus mīrābilis* de Albert Einstein.  Durante se año, Einstein publicó cuatro artículos de investigación que, sin duda alguna, constituyen parte de los cimientos de la física moderna.
 
 * Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
 * Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
