@@ -8,7 +8,7 @@
 
 ## Introducción
 
-La **Relatividad Especial** data de 1905, el annus mīrābilis de Albert Einstein
+La **Relatividad Especial** data de 1905, el *annus mīrābilis* de Einstein
 
 ## Cuadernos jupyter disponibles.
 
