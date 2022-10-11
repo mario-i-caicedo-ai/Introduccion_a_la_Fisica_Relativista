@@ -1,4 +1,4 @@
-# Introduccion_a_la_Fisica_Relativista
+# Introducción a la Física Relativista
 
 ## Cuadernos jupyter disponibles.
 
