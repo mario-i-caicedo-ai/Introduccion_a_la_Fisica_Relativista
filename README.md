@@ -33,7 +33,8 @@ Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que s
   * Bernanrd Shcutz, [A First Course in General Relativity](https://books.google.com.co/books?id=V1CGLi58W7wC&printsec=frontcover&dq=schutz+relativity&hl=en&sa=X&redir_esc=y#v=onepage&q=schutz%20relativity&f=false)
 
 * Avanzada
-. Jackson, [Classical Electrodynamics](https://books.google.com.co/books?id=6VV-EAAAQBAJ&printsec=frontcover&dq=j+d+jackson+classical+electrodynamics&hl=en&sa=X&redir_esc=y#v=onepage&q=j%20d%20jackson%20classical%20electrodynamics&f=false)
+
+  * Jackson, [Classical Electrodynamics](https://books.google.com.co/books?id=6VV-EAAAQBAJ&printsec=frontcover&dq=j+d+jackson+classical+electrodynamics&hl=en&sa=X&redir_esc=y#v=onepage&q=j%20d%20jackson%20classical%20electrodynamics&f=false)
   * L.Landau E. M. Lifshitz, [The Classical Theory of Fields. Course of Theoretical Physics. Vol 4](https://books.google.com.co/books?id=X18PF4oKyrUC&printsec=frontcover&dq=landau+lifschitz+the+classical+theory+of+fields&hl=en&sa=X&redir_esc=y#v=onepage&q=landau%20lifschitz%20the%20classical%20theory%20of%20fields&f=false)
   * S. Weinberg, [Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity](https://books.google.com.co/books?id=-QH2PgAACAAJ&dq=weinberg+relativity&hl=en&sa=X&redir_esc=y)
   * Misner Thorne Wheeler, [Gravitation](https://books.google.com.co/books?id=SyQzDwAAQBAJ&printsec=frontcover&dq=misner+thoren+wheeler&hl=en&sa=X&ved=2ahUKEwjpiL24-Nj6AhUvTTABHcDlCaAQ6AF6BAgMEAI#v=onepage&q&f=false)
