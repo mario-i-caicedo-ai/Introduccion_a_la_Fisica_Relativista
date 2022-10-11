@@ -68,8 +68,8 @@ Semana 1:
 
 [Is Special Relativity Paradoxical?](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Reciprocity/index.html)
 
-[Masa/Energía:](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/E=mcsquared/index.html) $E=mc^2$ 
+[Mass-Energy:](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/E=mcsquared/index.html) $E=mc^2$ 
 
-
+Pronto tendremos más ....
 
 
