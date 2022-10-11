@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align: center;">
   <H1> Introducción a la Física Relativista </H1>
 </p>
 
