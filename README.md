@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">Test</h1>
+
 <p style="text-align: center;">
   <H1> Introducción a la Física Relativista </H1>
 </p>
