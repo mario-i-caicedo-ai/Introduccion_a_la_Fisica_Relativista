@@ -1,5 +1,5 @@
 <p align="center">
-  <H1> Python, una introducción </H1>
+  <H1> Introducción a la Física Relativista </H1>
 </p>
 
 
@@ -8,9 +8,6 @@
  
 </p>
 
-
-
-# Introducción a la Física Relativista
 
 ## Cuadernos jupyter disponibles.
 
