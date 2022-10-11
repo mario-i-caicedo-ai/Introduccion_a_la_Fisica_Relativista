@@ -49,7 +49,7 @@ En Construcción
 
 ## Clases
 
-[Apuntes del Curso (Versión Preliminar en Inglés)]()
+[Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
 
 ## Tareas
 
