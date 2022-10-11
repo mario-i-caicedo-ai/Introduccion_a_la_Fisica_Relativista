@@ -12,8 +12,8 @@ La **Relatividad Especial** data de 1905, el *annus mīrābilis* de Einstein, a�
 
 * Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
 * Über die von der molekularkinetischen Theorie der Wärme geforderte Bewegung von in ruhenden Flüssigkeiten suspendierten Teilchen
-*
-*
+* Zur Elektrodynamik bewegter Körper
+* Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?
 
 
 ## Cuadernos jupyter disponibles.
