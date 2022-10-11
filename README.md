@@ -70,4 +70,6 @@ Semana 1:
 
 [$E=mc^2$](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Reciprocity/index.html)
 
+$E=mc^2$
+
 
