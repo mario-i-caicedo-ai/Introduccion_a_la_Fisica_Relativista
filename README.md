@@ -56,9 +56,13 @@ En Construcción
 Semana 1: 
 
 
-## Otros Recursos.) a creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante est+a en este [enlace]
+## Otros Recursos.
 
-Enla tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante est+a en este [enlace](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
+[xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)
+
+[Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) del [FERMILAB](https://www.fnal.gov/) ... [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
+
+Enla tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante está en este [enlace](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
 
 [Special Relativity: the Principles](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_principles/index.html)
 
