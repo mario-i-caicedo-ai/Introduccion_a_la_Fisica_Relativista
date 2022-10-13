@@ -56,7 +56,9 @@ En Construcción
 Semana 1: 
 
 
-## Otros Recursos.
+## Otros Recursos.) a creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante est+a en este [enlace]
+
+Enla tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante est+a en este [enlace](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
 
 [Special Relativity: the Principles](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_principles/index.html)
 
