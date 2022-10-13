@@ -58,7 +58,7 @@ Semana 1:
 
 ## Otros Recursos.
 
-[xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)
+[xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)  [yyy](https://www.youtube.com/watch?v=lT4OLf4yyuU)
 
 [Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) del [FERMILAB](https://www.fnal.gov/) ... [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
 
