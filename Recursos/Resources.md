@@ -5,11 +5,8 @@
 * [Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) es un investigador del [FERMILAB](https://www.fnal.gov/) que ha dedicado un tiempo importante a la divulgación de la física. [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
 
 
-[xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)  [yyy](https://www.youtube.com/watch?v=lT4OLf4yyuU)
-
-
-
-
+* [Javier Santaolalla](https://es.wikipedia.org/wiki/Javier_Santaolalla) es otro divulgador de la física que ha tenido una interesa te carrera de nvestigador en el [CERN](https://home.web.cern.ch/)
+* 
 [Special Relativity: the Principles](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_principles/index.html)
 
 [Clocks and Rods](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/index.html)
