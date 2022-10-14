@@ -54,5 +54,5 @@ En Construcción
 ## [Tareas](Tareas/Tareas.md)
 
   
-## [Otros Re)cursos](Recursos/Resources.md).
+## [Otros Recursos](Recursos/Resources.md).
 
