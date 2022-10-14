@@ -1,11 +1,13 @@
 ### En esta sección tendrás enlaces a videos y notas que seguramente te serán útiles.
 
-* En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Este enlace lleva al material de [Relatividad Especial](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA).
-
-* [Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) es un investigador del [FERMILAB](https://www.fnal.gov/) que ha dedicado un tiempo importante a la divulgación de la física. [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
+* En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Este enlace lleva a las clases de [Relatividad Especial](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA).
 
 * [Javier Santaolalla](https://es.wikipedia.org/wiki/Javier_Santaolalla) es otro divulgador de la física que ha tenido una interesa te carrera de nvestigador en el [CERN](https://home.web.cern.ch/), acá tienes dos de sus videos relacionados con el tema de este curso.
   * [HOY SÍ que vas a entender la relatividad especial](https://www.youtube.com/watch?v=lT4OLf4yyuU&list=RDLVlT4OLf4yyuU&start_radio=1&rv=lT4OLf4yyuU&t=0)   * [Paradoja de los Gemelos.](https://www.youtube.com/watch?v=lPEo0wDiU0c&t=214s)
+
+* [Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) es un investigador del [FERMILAB](https://www.fnal.gov/) que ha dedicado un tiempo importante a la divulgación de la física. [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
+
+
   
   
 [Special Relativity: the Principles](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_principles/index.html)
