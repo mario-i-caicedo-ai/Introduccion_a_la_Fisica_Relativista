@@ -53,7 +53,8 @@ En Construcción
 
 ## Tareas
 
-Semana 1: 
+  * Semana 1: Parte I: Discuta el experimento de Michelson-Morley en términos de su motivación, metodología, resultados y solución según Lorentz.
+  Parte II: Discuta el experimento de Kennedy–Thorndike.
 
 
 ## [Otros Recursos](Recursos/Resources.md).
