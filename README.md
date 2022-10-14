@@ -47,7 +47,9 @@ Revolucionaron totalmente los conceptosde espacio, tiempo, masa y energía que s
 En Construcción 
  
 
-## Clases
+## Lecturas
+
+* Semana 1: 
 
 [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
 
