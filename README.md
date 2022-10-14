@@ -53,6 +53,8 @@ En Construcción
 
 ## Tareas
 
+**Se espera que entregue sus tareas como archivos pdf, para ello se recomienda usar Latex. Una muy buena formna de hacer el trabajo es a través del recurso [Overleaf](https://www.overleaf.com/login), un editor en línea. Que seguramente se convertirá en un gran aliado para todos sus trabajos posteriores.** 
+
   * Semana 1: Parte I: Discuta el experimento de Michelson-Morley en términos de su motivación, metodología, resultados y solución según Lorentz.
   Parte II: Discuta el experimento de Kennedy–Thorndike.
 
