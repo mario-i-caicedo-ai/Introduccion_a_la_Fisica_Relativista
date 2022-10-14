@@ -49,9 +49,7 @@ En Construcción
 
 ## Lecturas
 
-* Semana 1: 
-
-[Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
+* Semana 1: Capítulos 1 y 2 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
 
 ## Tareas
 
@@ -59,6 +57,9 @@ En Construcción
 
   * **Semana 1** Parte I: Discuta el experimento de Michelson-Morley en términos de su motivación, metodología, resultados y su interpretación/solución independiente según George Fitzgerald y H. A. Lorentz.
   Parte II: Discuta el experimento de Kennedy–Thorndike. **ENTREGA:** Viernes 
+  
+  * **Semana 2** Parte I: Discuta el experimento de Michelson-Morley en términos de su motivación, metodología, resultados y su interpretación/solución independiente según George Fitzgerald y H. A. Lorentz.
+  Parte II: Discuta el experimento de Kennedy–Thorndike. **ENTREGA:** Viernes
 
 
 ## [Otros Recursos](Recursos/Resources.md).
