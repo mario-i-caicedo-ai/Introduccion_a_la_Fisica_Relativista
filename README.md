@@ -58,13 +58,15 @@ Semana 1:
 
 ## Otros Recursos.
 
-En esta sección tendrás enlaces a videos y notas que seguramente te serán útiles.
+### En esta sección tendrás enlaces a videos y notas que seguramente te serán útiles.
 
-En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Este enlace lleva al material de [Relatividad Especial](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
+* En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Este enlace lleva al material de [Relatividad Especial](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA).
+
+* [Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) es un investigador del [FERMILAB](https://www.fnal.gov/) que ha dedicado un tiempo importante a la divulgación de la física. [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
+
 
 [xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)  [yyy](https://www.youtube.com/watch?v=lT4OLf4yyuU)
 
-[Don Lincoln](https://en.wikipedia.org/wiki/Don_Lincoln) del [FERMILAB](https://www.fnal.gov/) ... [What is relativity all about?](https://www.youtube.com/watch?v=CB1QFUCga0I&list=PLCfRa7MXBEspw_7ZSTVGCXpSswdpegQHX&index=7)
 
 
 
