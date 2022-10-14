@@ -58,7 +58,9 @@ Semana 1:
 
 ## Otros Recursos.
 
-En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Para este curso, el material interesante está en este [enlace](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
+En esta sección tendrás enlaces a videos y notas que seguramente te serán útiles.
+
+En la tradición de Lev Landau, el Prof. [Leonard Susskind](https://en.wikipedia.org/wiki/Leonard_Susskind) de Stanford Uiversity ha creado un conjunto de clases denominadas Theoretical Minimum. Este enlace lleva al material de [Relatividad Especial](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA)
 
 [xxx](https://www.youtube.com/watch?v=fKe2bGTmnhU)  [yyy](https://www.youtube.com/watch?v=lT4OLf4yyuU)
 
