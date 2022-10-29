@@ -12,3 +12,5 @@
   Parte II: Discuta el experimento de Kennedy–Thorndike. **Última fecha de entrega** Viernes 21 de Octubre 
   
   * **Semana 2** Resuelva los Problemas de los Caps 1 y 2 de las [notas de clase](lectures/Relativity_I.pdf). **Última fecha de entrega** Viernes 28 de Octubre
+
+* **Semana 3** Resuelva los Problemas planteados en las secciones **4.1.2** y **4.2** (Cap 4) de las [notas de clase](lectures/Relativity_I.pdf). **Última fecha de entrega** Viernes, 4 de Noviembre.
