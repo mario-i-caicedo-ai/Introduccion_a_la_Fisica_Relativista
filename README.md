@@ -49,7 +49,13 @@ En Construcción
 
 ## Lecturas
 
-* Semana 1: Capítulos 1 y 2 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
+* Se6ana 1: Capítulos 1 y 2 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
+
+* Semana 2: Capítulos 3 y 4 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
+
+* Semana 3: ** Consecuencias simples de la Relatividad Especial**, capítulo 5 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
+
+* Semana 4: **Cuadrivelocidad y Cuadriaceleración**.  Capítulos 6 y 7 de los [Apuntes del Curso (Versión Preliminar en Inglés)](lectures/Relativity_I.pdf)
 
 ## [Tareas](Tareas/Tareas.md)
 
