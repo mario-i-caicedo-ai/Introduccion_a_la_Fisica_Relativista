@@ -17,6 +17,10 @@
 
 * **Semana 5** El capítulo 5 de las notas de clase está dedicado a estudiar las consecuencias más conocidas de la relatividad especial. La tarea de esta semana consiste en leer con absoluto detalle todo el capítulo y entregar un escrito en que explique las dificultades que tuvo ó no tuvo) en asir por completo los fenómenos que se presntan en el capítulo. Tenga especial cuidado en conciliar el enfoque estándar y el enfoque basado en diagramas espacio temporales. **Última fecha de entrega** Martes, 22 de octubre.
 
-* * **Semana 6** El capítulo 5 de las notas de clase está dedicado a la definición de la cuadrivelocidad. Lea el capítulo con muchísimo cuidado, enteinda que tipo de objeto geométrico
-  * es la cuadrivelocidad y por qué, compare la cuadrivelocidad con la velocidad definida en la forma ordinaria **Última fecha de entrega** Jueves, 7 de Noviembre.
+* * **Semana 6** Los capítulos 6 y 7 de las notas de clase están dedicados a la definición de la cuadrivelocidad y la cuadriaceleración.
+  * Lea ambos capítulos con muchísimo cuidado, entienda que tipo de objetos geométricos son la cuadrivelocidad y la cuadriaceleración.
+  * Compare la cuadrivelocidad con la velocidad definida en la forma ordinaria 
+  * En particular discuta el movimiento con aceleración constante (sección 7.2)
+  * Revise los resultados de la sección 7.3
+**Última fecha de entrega** Jueves, 7 de Noviembre.
 
