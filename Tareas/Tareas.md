@@ -16,3 +16,7 @@
 * **Semana 3** I.- Estudie el capítulo 3 de las notas de clase con extremo cuidado. Asegúrese, en particular, de haber entendido como se dibujan los diagramas espaco temporales. II Resuelva los Problemas planteados en las secciones **4.1.2** y **4.2** (Cap 4) de las [notas de clase](https://github.com/mario-i-caicedo-ai/Introduccion_a_la_Fisica_Relativista/blob/main/lectures/Relativity_I.pdf). **Última fecha de entrega** Martes, 15 de octubre.
 
 * **Semana 5** El capítulo 5 de las notas de clase está dedicado a estudiar las consecuencias más conocidas de la relatividad especial. La tarea de esta semana consiste en leer con absoluto detalle todo el capítulo y entregar un escrito en que explique las dificultades que tuvo ó no tuvo) en asir por completo los fenómenos que se presntan en el capítulo. Tenga especial cuidado en conciliar el enfoque estándar y el enfoque basado en diagramas espacio temporales. **Última fecha de entrega** Martes, 22 de octubre.
+
+* * **Semana 6** El capítulo 5 de las notas de clase está dedicado a la definición de la cuadrivelocidad. Lea el capítulo con muchísimo cuidado, enteinda que tipo de objeto geométrico
+  * es la cuadrivelocidad y por qué, compare la cuadrivelocidad con la velocidad definida en la forma ordinaria **Última fecha de entrega** Jueves, 7 de Noviembre.
+
