@@ -4,7 +4,7 @@
 </p>
 
 
-**Se espera que entregue sus tareas como archivos pdf, para ello se recomienda usar Latex. Una muy buena formna de hacer el trabajo es a través del recurso [Overleaf](https://www.overleaf.com/login). Un editor en línea que seguramente se convertirá en un gran aliado para todos sus trabajos posteriores.** 
+**Se espera que entregue sus tareas como archivos pdf, para ello se recomienda usar Latex. Una muy buena forma de hacer el trabajo es a través del recurso [Overleaf](https://www.overleaf.com/login). Un editor en línea que seguramente se convertirá en un gran aliado para todos sus trabajos posteriores.** 
 
 **Las tareas pueden ser entregadas hasta las 11:59 pm (hora de Venezuela) de la última fecha de entrega**
 
