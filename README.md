@@ -35,7 +35,7 @@ Revolucionaron totalmente los conceptos de espacio, tiempo, masa y energía que 
 * Avanzada
 
   * Jackson, [Classical Electrodynamics](https://archive.org/details/john-david-jackson-classical-electrodynamics-wiley-1999/mode/2up)
-  * L.Landau E. M. Lifshitz, [The Classical Theory of Fields. Course of Theoretical Physics. Vol 4](https://books.google.com.co/books?id=X18PF4oKyrUC&printsec=frontcover&dq=landau+lifschitz+the+classical+theory+of+fields&hl=en&sa=X&redir_esc=y#v=onepage&q=landau%20lifschitz%20the%20classical%20theory%20of%20fields&f=false)
+  * L.Landau E. M. Lifshitz, [The Classical Theory of Fields. Course of Theoretical Physics. Vol 4](https://archive.org/details/landau-and-lifshitz-physics-textbooks-series/Vol%208%20-%20Landau%2C%20Lifshitz%20-%20Electrodynamics%20Of%20Continuous%20Media%20%282ed%2C%201984%29/)
   * S. Weinberg, [Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity](https://archive.org/details/WeinbergS.GravitationAndCosmology..PrinciplesAndApplicationsOfTheGeneralTheoryOf))
   * Misner Thorne Wheeler, [Gravitation](https://books.google.com.co/books?id=SyQzDwAAQBAJ&printsec=frontcover&dq=misner+thoren+wheeler&hl=en&sa=X&ved=2ahUKEwjpiL24-Nj6AhUvTTABHcDlCaAQ6AF6BAgMEAI#v=onepage&q&f=false)
 
