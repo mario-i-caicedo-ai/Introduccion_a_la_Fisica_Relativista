@@ -21,7 +21,7 @@ Revolucionaron totalmente los conceptos de espacio, tiempo, masa y energía que 
 
 * Walter Isaacson, [Einstein: His Life and Universe](https://books.google.com.co/books/about/Einstein.html?id=d2WZDgAAQBAJ&redir_esc=y)
 * Abraham Pais, [Subtle is the Lord: The Science and the Life of Albert Einstein](https://books.google.com.co/books?id=0QYTDAAAQBAJ&printsec=frontcover&dq=pais+subtle+is+the+lord&hl=en&sa=X&redir_esc=y#v=onepage&q=pais%20subtle%20is%20the%20lord&f=false)
-* L.D. Landau and G.B. Rumer, *What is Relativity?*
+* L.D. Landau and G.B. Rumer, [What is The Theory of Relativity?](https://archive.org/details/WhatIsTheTheoryOfRelativity)
 
 ### Técnica
 
