@@ -28,7 +28,7 @@ Revolucionaron totalmente los conceptos de espacio, tiempo, masa y energía que 
 * Introductoria
 
   * Edwin F. Taylor, John Archibald Wheeler, [Spacetime Physics](https://ia800503.us.archive.org/22/items/SpacetimePhysicsIntroductionToSpecialRelativityTaylorWheelerPDF/Spacetime%20Physics%20-%20Introduction%20to%20Special%20Relativity%20%5BTaylor-Wheeler%5DPDF.pdf)
-  * N. M. J. Woodhouse, [Special Relativity](https://books.google.com.co/books?id=LH4pBAAAQBAJ&printsec=frontcover&dq=woodhouse+special+relativity&hl=en&sa=X&redir_esc=y#v=onepage&q=woodhouse%20special%20relativity&f=false)
+  * N. M. J. Woodhouse, [Special Relativity](https://archive.org/details/specialrelativit0000wood)
   * Ray D´Inverno, [Introducing Einteinś Relativity: A Deeper Understanding](https://books.google.com.co/books?id=oCtzzgEACAAJ&dq=ray+d%C3%ADnverno+relativity&hl=en&sa=X&ved=2ahUKEwjWn9at9Nj6AhXZTjABHSwjB1QQ6AF6BAgMEAI)
   * Bernard F. Schutz, [A First Course in General Relativity](https://archive.org/details/AFirstCourseInGeneralRelativityB.Schutz)
 
