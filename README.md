@@ -13,7 +13,11 @@ El año 1905 es conocido como el [*annus mīrābilis*](https://en.wikipedia.org/
 * Zur Elektrodynamik bewegter Körper, publicado el 26 de septiembre y  
 * Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? de fecha 21 de noviembre.
 
-Revolucionaron totalmente los conceptos de espacio, tiempo, masa y energía que semanejaban hasta aquel año. Y sentaron las bases de la Relatividad Especial que es junto con la mecánica cuántica es un paradigma fundamental de la física.
+Revolucionaron totalmente los conceptos de espacio, tiempo, masa y energía que se manejaban hasta aquel año. Y sentaron las bases de la Relatividad Especial que es junto con la mecánica cuántica es un paradigma fundamental de la física.
+
+Este repositorio le presenta el contenido del primer curso de Relatividad de la Licenciatura en Física de la Universidad Simón Bolívar. 
+
+
 
 ## Bibliografía
 
