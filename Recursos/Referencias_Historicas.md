@@ -14,7 +14,7 @@
 
 ### Análisis Histórico y Filosófico
 
-1. The Creation of Scientific Concepts: Einstein's Path to Special Relativity de John Norton. Un recurso en línea accesible que rastrea los experimentos mentales de Einstein, 
+1. John Norton, [The Creation of Scientific Concepts: Einstein's Path to Special Relativity](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/origins_pathway/index.html#:~:text=:%20Routledge%2C%202013.-,Magnet%20and%20conductor,paragraph%20of%20Einstein's%201905%20paper.) de John Norton. Un recurso en línea accesible que rastrea los experimentos mentales de Einstein, 
 como perseguir un rayo de luz. · Nivel Técnico: Bajo-Medio. 
 
 2. Thematic Origins of Scientific Thought: Kepler to Einstein de Gerald Holton. Nivel Técnico: Bajo-Medio. Una obra clásica de historia de la ciencia. Los ensayos sobre Einstein son especialmente profundos.
