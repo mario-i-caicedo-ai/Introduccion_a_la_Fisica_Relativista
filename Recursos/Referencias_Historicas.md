@@ -1,7 +1,7 @@
 
 # sssssss
 
-## Divulgación Científica e Interés General
+### Divulgación Científica e Interés General
 
 
 1. Einstein: His Life and Universe de Walter Isaacson. Una biografía completa que sitúa el desarrollo de la relatividad en el contexto de la vida y la época de Einstein.
@@ -12,7 +12,7 @@
 
 4. Mr Tompkins in Paperback de George Gamow. Una serie clásica de relatos de ficción que explican de manera intuitiva los efectos relativistas imaginando un mundo donde la velocidad de la luz es mucho más lenta.
 
-# Análisis Histórico y Filosófico
+### Análisis Histórico y Filosófico
 
 1. The Creation of Scientific Concepts: Einstein's Path to Special Relativity de John Norton. Un recurso en línea accesible que rastrea los experimentos mentales de Einstein, 
 como perseguir un rayo de luz. · Nivel Técnico: Bajo-Medio. 
