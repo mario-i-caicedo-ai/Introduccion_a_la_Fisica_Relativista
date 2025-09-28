@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="PICS/Einstein_1.png" width="500" title="hover text">
+  <img src="(../pics/snoopy_einstein.png)" width="500" title="hover text">
  
 </p>
 
