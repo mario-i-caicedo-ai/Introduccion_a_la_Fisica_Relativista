@@ -4,34 +4,33 @@
 ### Divulgación Científica e Interés General
 
 
-1. Einstein: His Life and Universe de Walter Isaacson. Una biografía completa que sitúa el desarrollo de la relatividad en el contexto de la vida y la época de Einstein.
+1. Walter Isaacson, **Einstein: His Life and Universe**. Una biografía completa que sitúa el desarrollo de la relatividad en el contexto de la vida y la época de Einstein.
 
-2. "The Relative and the Absolute" en The Ascent of Man de Jacob Bronowski. Capítulo magníficamente escrito que explica el cambio filosófico desde el espacio y tiempo absolutos en su contexto histórico.
+2. Jacob Bronowski, "The Relative and the Absolute" en The Ascent of Man. Capítulo magníficamente escrito que explica el cambio filosófico desde el espacio y tiempo absolutos en su contexto histórico.
 
-3. The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World de Edward Dolnick. Proporciona los antecedentes esenciales sobre la visión newtoniana del mundo que Einstein derrocó.
+3. Edward Dolnick, **The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World**. Antecedentes esenciales sobre la visión newtoniana del mundo
 
-4. Mr Tompkins in Paperback de George Gamow. Una serie clásica de relatos de ficción que explican de manera intuitiva los efectos relativistas imaginando un mundo donde la velocidad de la luz es mucho más lenta.
+4. George Gamow, **Mr Tompkins in Paperback**. Una serie clásica de relatos de ficción que explican de manera intuitiva los efectos relativistas imaginando un mundo donde la velocidad de la luz es mucho más lenta.
 
 ### Análisis Histórico y Filosófico
 
-1. John Norton, [The Creation of Scientific Concepts: Einstein's Path to Special Relativity](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/origins_pathway/index.html#:~:text=:%20Routledge%2C%202013.-,Magnet%20and%20conductor,paragraph%20of%20Einstein's%201905%20paper.) de John Norton. Un recurso en línea accesible que rastrea los experimentos mentales de Einstein, 
-como perseguir un rayo de luz. · Nivel Técnico: Bajo-Medio. 
+1. John Norton, [The Creation of Scientific Concepts: Einstein's Path to Special Relativity](https://sites.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/origins_pathway/index.html#:~:text=:%20Routledge%2C%202013.-,Magnet%20and%20conductor,paragraph%20of%20Einstein's%201905%20paper.)Recurso en línea accesible que rastrea los experimentos mentales de Einstein, como perseguir un rayo de luz. 
 
-2. Thematic Origins of Scientific Thought: Kepler to Einstein de Gerald Holton. Nivel Técnico: Bajo-Medio. Una obra clásica de historia de la ciencia. Los ensayos sobre Einstein son especialmente profundos.
+2. Gerald Holton, **Thematic Origins of Scientific Thought: Kepler to Einstein**. Obra clásica de historia de la ciencia. Los ensayos sobre Einstein son especialmente profundos.
 
-3. Einstein's Clocks, Poincaré's Maps: Empires of Time de Peter Galison. Nivel Técnico: Bajo. Una historia fascinante que vincula el desarrollo de la RE con los problemas tecnológicos prácticos de sincronizar el tiempo, centrándose en Einstein y Henri Poincaré.
+3. Peter Galison, **Einstein's Clocks, Poincaré's Maps: Empires of Time**. Historia fascinante que vincula el desarrollo de la RE con los problemas tecnológicos prácticos de sincronizar el tiempo, centrándose en Einstein y Henri Poincaré.
 
-4. The Riddle of Gravitation de Peter Bergmann. Nivel Técnico: Medio. Aunque trata sobre la relatividad general, los primeros capítulos ofrecen una introducción histórica y conceptual muy clara a los problemas que llevaron a la RE.
+4. Peter Bergmann. **The Riddle of Gravitation**. Aunque trata sobre la relatividad general, los primeros capítulos ofrecen una introducción histórica y conceptual muy clara a los problemas que llevaron a la RE.
 
-5. The Physical and the Rational: Mechanics in the Second Half of the 19th Century (Varios autores). Nivel Técnico: Medio. Comprender el estado de la física a finales del siglo XIX (electrodinámica, el éter) es crucial. Busca análisis históricos del experimento de Michelson-Morley y el trabajo de Lorentz y Fitzgerald.
+5. **The Physical and the Rational: Mechanics in the Second Half of the 19th Century**. Nivel Técnico: Medio. Comprender el estado de la física a finales del siglo XIX (electrodinámica, el éter) es crucial. Busca análisis históricos del experimento de Michelson-Morley y el trabajo de Lorentz y Fitzgerald.
 
-# Historias Académicas y Técnicas
+### Historias Académicas y Técnicas
 
-1. The Road to Relativity: The History and Meaning of Einstein's "The Foundation of General Relativity" de Hanoch Gutfreund y Jürgen Renn. Nivel Técnico: Alto. Incluye facsímil, traducción y comentario de los artículos de 1915 de Einstein. El comentario proporciona un contexto histórico profundo.
+1. Hanoch Gutfreund y Jürgen Renn, [The Road to Relativity: The History and Meaning of Einstein's "The Foundation of General Relativity"](https://books.google.com/books?id=C0h9CAAAQBAJ&pg=PR3&source=kp_read_button&hl=en&newbks=1&newbks_redir=0#v=onepage&q&f=false) Incluye facsímil, traducción y comentario de los artículos de 1915 de Einstein. El comentario proporciona un contexto histórico profundo.
 
-2. The Genesis of General Relativity (4 Volumes) editado por Jürgen Renn. Nivel Técnico: Alto. El recurso académico definitivo sobre el tema.
+2. Jürgen Renn (ed) [The Genesis of General Relativity (4 Volumes)](https://books.google.com/books?id=HmE4zwEACAAJ&dq=The+Genesis+of+General+Relativity&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiIwvemk_qPAxWQkmoFHXZaMcsQ6wF6BAgNEAE) El recurso académico definitivo sobre el tema.
 
-3. Einstein's Miraculous Year: Five Papers That Changed the Face of Physics editado por John Stachel. Nivel Técnico: Medio-Alto. Centrado en los artículos de Einstein de 1905. Las introducciones y comentarios de Stachel son obras maestras de la erudición histórica.
+3. John Stachel (ed), [Einstein's Miraculous Year: Five Papers That Changed the Face of Physics](https://books.google.com/books?id=KU0gEAAAQBAJ&printsec=frontcover&dq=Einstein%27s+Miraculous+Year:+Five+Papers+That+Changed+the+Face+of+Physics&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwis9rTZk_qPAxVGliYFHac2HwIQ6AF6BAgKEAM#v=onepage&q=Einstein's%20Miraculous%20Year%3A%20Five%20Papers%20That%20Changed%20the%20Face%20of%20Physics&f=false) Centrado en los artículos de Einstein de 1905. Las introducciones y comentarios de Stachel son obras maestras de la erudición histórica.
 
 4. The Collected Papers of Albert Einstein (Volumes 1-3). El material de fuente primaria. Las traducciones al inglés incluyen notas editoriales de gran valor.
 
