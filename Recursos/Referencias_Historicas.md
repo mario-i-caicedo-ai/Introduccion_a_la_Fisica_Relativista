@@ -1,5 +1,9 @@
 
-# Lecturas y Videos Adicionales
+<p align="center">
+  <img src="PICS/Einstein_1.png" width="500" title="hover text">
+ 
+</p>
+
 
 ### Divulgación Científica e Interés General
 
