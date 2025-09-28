@@ -48,7 +48,7 @@ Este repositorio le presenta el contenido del primer curso de Relatividad de la 
     
 ## Cuadernos jupyter disponibles (En Construcción).
  
-## [Contenido](Contenido.md)
+## [Contenido](lectures/Contenido.md)
 
 ## [Tareas](Tareas/Tareas.md)
 
