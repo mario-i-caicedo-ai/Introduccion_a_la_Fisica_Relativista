@@ -86,9 +86,11 @@ Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para 
 
 1. Interstellar (2014) - Dirigida por Christopher Nolan.
 · Conexión: Aunque trata principalmente sobre la relatividad general, representa de manera dramática y precisa efectos como la dilatación del tiempo, mostrando sus consecuencias profundas.
-2. The Theory of Everything (2014) - Dirigida por James Marsh.
+
+3. The Theory of Everything (2014) - Dirigida por James Marsh.
 · Conexión: Biografía de Stephen Hawking. Es útil para ver cómo las ideas de Einstein (y su legado) dominaban la física teórica del siglo XX.
-3. IQ (1994) - Comedia romántica.
+
+5. IQ (1994) - Comedia romántica.
 · Conexión: Una comedia ligera donde Albert Einstein (interpretado por Walter Matthau) es un personaje central. Ofrece una visión divertida y humanizada de la figura del científico.
 
 
