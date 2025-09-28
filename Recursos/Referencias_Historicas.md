@@ -28,7 +28,7 @@
 
 1. Hanoch Gutfreund y Jürgen Renn, [The Road to Relativity: The History and Meaning of Einstein's "The Foundation of General Relativity"](https://books.google.com/books?id=C0h9CAAAQBAJ&pg=PR3&source=kp_read_button&hl=en&newbks=1&newbks_redir=0#v=onepage&q&f=false) Incluye facsímil, traducción y comentario de los artículos de 1915 de Einstein. El comentario proporciona un contexto histórico profundo.
 
-2. Jürgen Renn (ed) [The Genesis of General Relativity (4 Volumes)](https://books.google.com/books?id=HmE4zwEACAAJ&dq=The+Genesis+of+General+Relativity&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiIwvemk_qPAxWQkmoFHXZaMcsQ6wF6BAgNEAE) El recurso académico definitivo sobre el tema.
+2. Jürgen Renn (ed) [The Genesis of General Relativity (4 Volumes)](https://books.google.com/booksid=HmE4zwEACAAJ&dq=The+Genesis+of+General+Relativity&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiIwvemk_qPAxWQkmoFHXZaMcsQ6wF6BAgNEAE) El recurso académico definitivo sobre el tema.
 
 3. John Stachel (ed), [Einstein's Miraculous Year: Five Papers That Changed the Face of Physics](https://books.google.com/books?id=KU0gEAAAQBAJ&printsec=frontcover&dq=Einstein%27s+Miraculous+Year:+Five+Papers+That+Changed+the+Face+of+Physics&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwis9rTZk_qPAxVGliYFHac2HwIQ6AF6BAgKEAM#v=onepage&q=Einstein's%20Miraculous%20Year%3A%20Five%20Papers%20That%20Changed%20the%20Face%20of%20Physics&f=false) Centrado en los artículos de Einstein de 1905. Las introducciones y comentarios de Stachel son obras maestras de la erudición histórica.
 
