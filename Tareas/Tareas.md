@@ -9,7 +9,7 @@
 **Las tareas pueden ser entregadas hasta las 11:59 pm (hora de Venezuela) de la última fecha de entrega**
 
   * **Semana 1** Parte I: Discuta el experimento de Michelson-Morley en términos de su motivación, metodología, resultados y su interpretación/solución independiente según George Fitzgerald y H. A. Lorentz.
-  Parte II: Discuta el experimento de Kennedy–Thorndike. **Última fecha de entrega** Lunes, 30 de Septiembre.  $}partial_xu$
+  Parte II: Discuta el experimento de Kennedy–Thorndike. **Última fecha de entrega** Lunes, 30 de Septiembre.  $\partial_xu$
   
   * **Semana 2** Resuelva los Problemas de los Caps 1 y 2 de las [notas de clase](https://github.com/mario-i-caicedo-ai/Introduccion_a_la_Fisica_Relativista/blob/main/lectures/Relativity_I.pdf). **Última fecha de entrega** Lunes 7 de Octubre
 
