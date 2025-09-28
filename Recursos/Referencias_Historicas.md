@@ -37,7 +37,7 @@
 
 4. **The Collected Papers of Albert Einstein (Volumes 1-3)**. El material de fuente primaria. Las traducciones al inglés incluyen notas editoriales de gran valor.
 
-5. Conceptual Development of Quantum Mechanics de Max Jammer. Nivel Técnico: Alto. Aunque se centra en la mecánica cuántica, proporciona un contexto excelente para el estado de la física en 1905.
+5. Max Jammer, **Conceptual Development of Quantum Mechanics**. Aunque se centra en la mecánica cuántica, proporciona un contexto excelente para el estado de la física en 1905.
 
 ### Artículos Originales Fundacionales
 
@@ -54,43 +54,34 @@ Documentales y Series de Televisión
 1. [Einstein's Big Idea (2005) - Nova / PBS](https://www.youtube.com/watch?v=6cHV8UGtkVw).
 · Enfoque: Drama histórico que narra la historia detrás de la ecuación E=mc², conectando el trabajo de Faraday, Lavoisier y otros con el de Einstein. Muy accesible.
 
-2. Genius: Einstein (2017) - National Geographic Series.
-· Enfoque: Serie dramática basada en la biografía de Walter Isaacson. La primera temporada se centra en la vida de Einstein, incluyendo su "año milagroso" de 1905.
+2. **Genius: Einstein** (2017) - National Geographic Series. Serie dramática basada en la biografía de Walter Isaacson. La primera temporada se centra en la vida de Einstein, incluyendo su "año milagroso" de 1905.
 
-3. The Ascent of Man (1973) - BBC Series, presentado por Jacob Bronowski.
-· Enfoque: Serie clásica de divulgación científica. El capítulo 11, "The Starry Messenger", cubre a Einstein y la relatividad de una manera profunda y filosófica.
+3. **The Ascent of Man** (1973) - BBC Series, presentado por Jacob Bronowski. Serie clásica de divulgación científica. El capítulo 11, "The Starry Messenger", cubre a Einstein y la relatividad de una manera profunda y filosófica.
 
-4. Cosmos: A Spacetime Odyssey (2014) - Presentado por Neil deGrasse Tyson.
-· Enfoque: Incluye segmentos que explican de manera visualmente impactante la dilatación del tiempo y otros conceptos relativistas, a menudo situándolos en su contexto histórico.
+4. **Cosmos: A Spacetime Odyssey (2014)** - Presentado por Neil deGrasse Tyson. Incluye segmentos que explican de manera visualmente impactante la dilatación del tiempo y otros conceptos relativistas, a menudo situándolos en su contexto histórico.
 
-5. Inside Einstein's Mind: The Enigma of Space and Time (2015) - Nova / PBS.
-· Enfoque: Recrea los experimentos mentales que llevaron a Einstein a formular la teoría de la relatividad, con excelentes animaciones.
+5. [Inside Einstein's Mind: The Enigma of Space and Time](https://www.youtube.com/watch?v=WXOz9HHaO3I). Nova / PBS (2015) . Recrea los experimentos mentales que llevaron a Einstein a formular la teoría de la relatividad, con excelentes animaciones.
 
 ### Canales de YouTube y Conferencias
 
 1. Minutephysics: [Special Relativity](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) Playlist.
 Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para entender los conceptos básicos de forma intuitiva.
 
-2. PBS Space Time: "Special Relativity" Playlist.
-· Nivel: Medio-Alto. Un análisis mucho más profundo y matemático, ideal para quienes tienen una base en física y quieren entender los detalles.
+2. PBS Space Time: "Special Relativity" Playlist. Un análisis mucho más profundo y matemático, ideal para quienes tienen una base en física y quieren entender los detalles.
 
 3. [Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/). MIT OpenCourseWare, profesor David Kaiser.
 
-4. Veritasium: "How Special Relativity Makes Magnets Work".
-· Nivel: Medio. Un video excelente que conecta un fenómeno cotidiano (el magnetismo) con los principios fundamentales de la relatividad especial.
+4. [How Special Relativity Makes Magnets Work](https://www.youtube.com/watch?v=IWiY5kVw9U4). Veritasium. Un video excelente que conecta un fenómeno cotidiano (el magnetismo) con los principios fundamentales de la relatividad especial.
 
-5. The Royal Institution: "The Meaning of E=mc²" por David Bodanis.
-· Nivel: General. Una conferencia amena basada en el libro homónimo, que cuenta la historia humana detrás de la ecuación más famosa del mundo.
+5.**The Meaning of E=mc²**, David Bodanis,  The Royal Institution: Conferencia amena basada en el libro homónimo, que cuenta la historia humana detrás de la ecuación más famosa del mundo.
 
 ### Películas (con temática relacionada)
 
-1. Interstellar (2014) - Dirigida por Christopher Nolan.
+1. **Interstellar** (2014), Christopher Nolan (Dir).
 · Conexión: Aunque trata principalmente sobre la relatividad general, representa de manera dramática y precisa efectos como la dilatación del tiempo, mostrando sus consecuencias profundas.
 
-3. The Theory of Everything (2014) - Dirigida por James Marsh.
-· Conexión: Biografía de Stephen Hawking. Es útil para ver cómo las ideas de Einstein (y su legado) dominaban la física teórica del siglo XX.
+3. **The Theory of Everything**, (2014) James Marsh (Dir) Biografía de Stephen Hawking. Es útil para ver cómo las ideas de Einstein (y su legado) dominaban la física teórica del siglo XX.
 
-5. IQ (1994) - Comedia romántica.
-· Conexión: Una comedia ligera donde Albert Einstein (interpretado por Walter Matthau) es un personaje central. Ofrece una visión divertida y humanizada de la figura del científico.
+5. **IQ** (1994), Una comedia ligera donde Albert Einstein (interpretado por Walter Matthau) es un personaje central. Ofrece una visión divertida y humanizada de la figura del científico.
 
 
