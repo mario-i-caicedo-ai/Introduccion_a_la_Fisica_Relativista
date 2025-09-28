@@ -50,7 +50,7 @@
 
 Documentales y Series de Televisión
 
-1. Einstein's Big Idea (2005) - Nova / PBS.
+1. [Einstein's Big Idea (2005) - Nova / PBS](https://www.youtube.com/watch?v=6cHV8UGtkVw).
 · Enfoque: Drama histórico que narra la historia detrás de la ecuación E=mc², conectando el trabajo de Faraday, Lavoisier y otros con el de Einstein. Muy accesible.
 2. Genius: Einstein (2017) - National Geographic Series.
 · Enfoque: Serie dramática basada en la biografía de Walter Isaacson. La primera temporada se centra en la vida de Einstein, incluyendo su "año milagroso" de 1905.
