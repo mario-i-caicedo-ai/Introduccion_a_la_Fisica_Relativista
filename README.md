@@ -44,7 +44,7 @@ Este repositorio le presenta el contenido del primer curso de Relatividad de la 
   * Misner Thorne Wheeler, [Gravitation](https://archive.org/details/GravitationMisnerThorneWheeler/page/n581/mode/2up)
     
 
-  
+## [Lecturas Sugeridas y Videos Adicionales](Recursos/Referencias_Historicas.md) 
     
 ## Cuadernos jupyter disponibles.
 
