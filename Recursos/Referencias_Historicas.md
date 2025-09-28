@@ -64,16 +64,22 @@ Documentales y Series de Televisión
 
 ### Canales de YouTube y Conferencias
 
-1. Minutephysics: [Special Relativity](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) Playlist.
+1. [Javier Santaolalla](https://es.wikipedia.org/wiki/Javier_Santaolalla) es otro divulgador de la física que ha tenido una interesa te carrera de nvestigador en el [CERN](https://home.web.cern.ch/), acá, dos de sus videos relacionados con el tema de este curso.
+
+  * [HOY SÍ que vas a entender la relatividad especial](https://www.youtube.com/watch?v=lT4OLf4yyuU&list=RDLVlT4OLf4yyuU&start_radio=1&rv=lT4OLf4yyuU&t=0)
+   
+  * [Paradoja de los Gemelos.](https://www.youtube.com/watch?v=lPEo0wDiU0c&t=214s)
+
+2. Minutephysics: [Special Relativity](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) Playlist.
 Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para entender los conceptos básicos de forma intuitiva.
 
-2. PBS Space Time: "Special Relativity" Playlist. Un análisis mucho más profundo y matemático, ideal para quienes tienen una base en física y quieren entender los detalles.
+3. PBS Space Time: "Special Relativity" Playlist. Un análisis mucho más profundo y matemático, ideal para quienes tienen una base en física y quieren entender los detalles.
 
-3. [Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/). MIT OpenCourseWare, profesor David Kaiser.
+4. [Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/). MIT OpenCourseWare, profesor David Kaiser.
 
-4. [How Special Relativity Makes Magnets Work](https://www.youtube.com/watch?v=IWiY5kVw9U4). Veritasium. Un video excelente que conecta un fenómeno cotidiano (el magnetismo) con los principios fundamentales de la relatividad especial.
+5. [How Special Relativity Makes Magnets Work](https://www.youtube.com/watch?v=IWiY5kVw9U4). Veritasium. Un video excelente que conecta un fenómeno cotidiano (el magnetismo) con los principios fundamentales de la relatividad especial.
 
-5.**The Meaning of E=mc²**, David Bodanis,  The Royal Institution: Conferencia amena basada en el libro homónimo, que cuenta la historia humana detrás de la ecuación más famosa del mundo.
+6.**The Meaning of E=mc²**, David Bodanis,  The Royal Institution: Conferencia amena basada en el libro homónimo, que cuenta la historia humana detrás de la ecuación más famosa del mundo.
 
 ### Películas (con temática relacionada)
 
