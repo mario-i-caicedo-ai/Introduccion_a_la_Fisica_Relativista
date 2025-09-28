@@ -27,7 +27,7 @@
 
 5. **The Physical and the Rational: Mechanics in the Second Half of the 19th Century**. Nivel Técnico: Medio. Comprender el estado de la física a finales del siglo XIX (electrodinámica, el éter) es crucial. Busca análisis históricos del experimento de Michelson-Morley y el trabajo de Lorentz y Fitzgerald.
 
-### Historias Académicas y Técnicas
+### ReferenciaS Académicas y Técnicas
 
 1. Hanoch Gutfreund y Jürgen Renn, [The Road to Relativity: The History and Meaning of Einstein's "The Foundation of General Relativity"](https://books.google.com/books?id=C0h9CAAAQBAJ&pg=PR3&source=kp_read_button&hl=en&newbks=1&newbks_redir=0#v=onepage&q&f=false) Incluye facsímil, traducción y comentario de los artículos de 1915 de Einstein. El comentario proporciona un contexto histórico profundo.
 
@@ -39,7 +39,7 @@
 
 5. Conceptual Development of Quantum Mechanics de Max Jammer. Nivel Técnico: Alto. Aunque se centra en la mecánica cuántica, proporciona un contexto excelente para el estado de la física en 1905.
 
-# Artículos Originales Fundacionales
+### Artículos Originales Fundacionales
 
 1. A. Einstein, **On the Electrodynamics of Moving Bodies** (1905). El artículo original. Sorprendentemente legible si se tiene formación en física.
 
@@ -47,7 +47,7 @@
 
 3. Henri Poincaré, **The Measure of Time**  (1898). Nivel Técnico: Medio. Un artículo filosófico que discute la convencionalidad de la simultaneidad, un paso conceptual clave.
 
-## Lista Expandida: Películas, Programas de TV y Videos
+### Programas de TV y Videos
 
 Documentales y Series de Televisión
 
@@ -66,7 +66,7 @@ Documentales y Series de Televisión
 5. Inside Einstein's Mind: The Enigma of Space and Time (2015) - Nova / PBS.
 · Enfoque: Recrea los experimentos mentales que llevaron a Einstein a formular la teoría de la relatividad, con excelentes animaciones.
 
-Canales de YouTube y Conferencias
+### Canales de YouTube y Conferencias
 
 1. Minutephysics: "Special Relativity" Playlist.
 · Nivel: Introductorio. Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para entender los conceptos básicos de forma intuitiva.
@@ -83,7 +83,7 @@ Canales de YouTube y Conferencias
 5. The Royal Institution: "The Meaning of E=mc²" por David Bodanis.
 · Nivel: General. Una conferencia amena basada en el libro homónimo, que cuenta la historia humana detrás de la ecuación más famosa del mundo.
 
-Películas (con temática relacionada)
+### Películas (con temática relacionada)
 
 1. Interstellar (2014) - Dirigida por Christopher Nolan.
 · Conexión: Aunque trata principalmente sobre la relatividad general, representa de manera dramática y precisa efectos como la dilatación del tiempo, mostrando sus consecuencias profundas.
