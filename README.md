@@ -38,7 +38,7 @@ Este repositorio le presenta el contenido del primer curso de Relatividad de la 
 
 * Avanzada
 
-  * Jackson, [Classical Electrodynamics](https://archive.org/details/john-david-jackson-classical-electrodynamics-wiley-1999/mode/2up)
+  * J. D. Jackson, [Classical Electrodynamics](https://archive.org/details/john-david-jackson-classical-electrodynamics-wiley-1999/mode/2up)
   * L.Landau E. M. Lifshitz, [The Classical Theory of Fields. Course of Theoretical Physics. Vol 4](https://archive.org/details/landau-and-lifshitz-physics-textbooks-series/Vol%208%20-%20Landau%2C%20Lifshitz%20-%20Electrodynamics%20Of%20Continuous%20Media%20%282ed%2C%201984%29/)
   * S. Weinberg, [Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity](https://archive.org/details/WeinbergS.GravitationAndCosmology..PrinciplesAndApplicationsOfTheGeneralTheoryOf))
   * Misner Thorne Wheeler, [Gravitation](https://archive.org/details/GravitationMisnerThorneWheeler/page/n581/mode/2up)
