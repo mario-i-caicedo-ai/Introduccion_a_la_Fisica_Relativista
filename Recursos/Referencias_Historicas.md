@@ -68,14 +68,13 @@ Documentales y Series de Televisión
 
 ### Canales de YouTube y Conferencias
 
-1. Minutephysics: "Special Relativity" Playlist.
-· Nivel: Introductorio. Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para entender los conceptos básicos de forma intuitiva.
+1. Minutephysics: [Special Relativity](https://www.youtube.com/playlist?list=PLoaVOjvkzQtyjhV55wZcdicAz5KexgKvm) Playlist.
+Explicaciones rápidas y claras con animaciones dibujadas a mano. Perfecto para entender los conceptos básicos de forma intuitiva.
 
 2. PBS Space Time: "Special Relativity" Playlist.
 · Nivel: Medio-Alto. Un análisis mucho más profundo y matemático, ideal para quienes tienen una base en física y quieren entender los detalles.
 
-3. MIT OpenCourseWare: "Einstein, Oppenheimer, Feynman: Physics in the 20th Century".
-· Nivel: Medio-Alto. Conferencias universitarias del profesor David Kaiser que sitúan el trabajo de Einstein en un contexto histórico y científico más amplio.
+3. [Einstein, Oppenheimer, Feynman: Physics in the 20th Century](https://ocw.mit.edu/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/). MIT OpenCourseWare, profesor David Kaiser.
 
 4. Veritasium: "How Special Relativity Makes Magnets Work".
 · Nivel: Medio. Un video excelente que conecta un fenómeno cotidiano (el magnetismo) con los principios fundamentales de la relatividad especial.
