@@ -1,7 +1,7 @@
 * Semana 1: Capítulos 1 y 2 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
 
 * Semana 2: **Espacio Tiempo y Transformaciones de Lorentz**. Capítulos 3 y 4 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
-  *   [Velocidad de la Luz, Relatividad Especial, Muones Atmosféricos, y la Naturaleza del Descubrimiento]()
+  *   [Velocidad de la Luz, Relatividad Especial, Muones Atmosféricos, y la Naturaleza del Descubrimiento](Speed_of_Light_and_other_Elements_of_Special_Relativity__esp.pdf)
 
 * Semana 3: **Consecuencias simples de la Relatividad Especial**, capítulo 5 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
 
