@@ -4,7 +4,7 @@
   
 * Semana 3: **Consecuencias simples de la Relatividad Especial**, capítulo 5 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
   
-  *    [V. Singh. *Albert Einstein: His Annus Mirabilis 1905*](../Articulos/0701240v1.pdf)
+  *    [V. Singh. *Albert Einstein: His Annus Mirabilis 1905*](../Articulos/0701240v1.pdf) Esta es una excelente lectura para obtener un marco histórico adecuado.
   *    [A. Eistein, *On the Electrodynamics of Moving Bodies*](../Articulos/Einstein_STR_1905_English.pdf)
   *    [A. Eistein, *Does The Inertia of a Body Depend Upon Its Energy Contents?*](../Articulos/Inertia_And_Energy_Einstein_1905_Emc2.pdf)
   *    [M. Caicedo. Velocidad de la Luz, Relatividad Especial, Muones Atmosféricos, y la Naturaleza del Descubrimiento](Speed_of_Light_and_other_Elements_of_Special_Relativity__esp.pdf)
