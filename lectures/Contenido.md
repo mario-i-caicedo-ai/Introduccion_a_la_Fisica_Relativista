@@ -5,6 +5,7 @@
 * Semana 3: **Consecuencias simples de la Relatividad Especial**, capítulo 5 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
   
   *    [V. Singh. *Albert Einstein: His Annus Mirabilis 1905*](../Articulos/0701240v1.pdf)
+  *    [A. Eistein, *Does The Inertia of a Body Depend Upon Its Energy Contents?](../Articulos/Inertia_And_Energy_Einstein_1905_Emc2.pdf)
   *    [M. Caicedo. Velocidad de la Luz, Relatividad Especial, Muones Atmosféricos, y la Naturaleza del Descubrimiento](Speed_of_Light_and_other_Elements_of_Special_Relativity__esp.pdf)
 
 * Semana 4: **Cuadrivelocidad y Cuadriaceleración**.  Capítulos 6 y 7 de los [Apuntes del Curso (Versión Preliminar en Inglés)](../lectures/Relativity_I.pdf)
